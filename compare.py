@@ -22,6 +22,6 @@ price1 = beer_data[5]
 price2 = beer_data[7]
 
 # Ausgabe des Resultats
-print(f"In {city1} kostet Bier derzeit: ø {price1}€ und in {city2} ø {price2}€")
+print(f"In {city1} kostet ein Bier (0,5 L) derzeit: ø {price1}€ und in {city2} ø {price2}€")
 
 
